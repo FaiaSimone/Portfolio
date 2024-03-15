@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.6947c00f.css",
-    "main.js": "/Portfolio/static/js/main.013d49d9.js",
+    "main.js": "/Portfolio/static/js/main.09bce085.js",
     "static/js/453.5631a300.chunk.js": "/Portfolio/static/js/453.5631a300.chunk.js",
     "static/media/Curriculum_Simone_Faia.pdf": "/Portfolio/static/media/Curriculum_Simone_Faia.f3d1c0f93ef9739155b2.pdf",
     "static/media/helvetica-neu.ttf": "/Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -11,11 +11,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Portfolio/index.html",
     "main.6947c00f.css.map": "/Portfolio/static/css/main.6947c00f.css.map",
-    "main.013d49d9.js.map": "/Portfolio/static/js/main.013d49d9.js.map",
+    "main.09bce085.js.map": "/Portfolio/static/js/main.09bce085.js.map",
     "453.5631a300.chunk.js.map": "/Portfolio/static/js/453.5631a300.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6947c00f.css",
-    "static/js/main.013d49d9.js"
+    "static/js/main.09bce085.js"
   ]
 }
